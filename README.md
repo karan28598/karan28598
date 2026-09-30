@@ -2,7 +2,7 @@
 
 Director of Engineering at [Speer Technologies](https://www.speer.io), Toronto. I design products, build teams, and ship software that holds up under launch-day traffic.
 
-I joined Speer as a founding engineer and worked my way up: senior engineer, frontend lead, and now running engineering. Along the way I helped scale the company from zero to a multi-million-dollar business with 1,005% three-year revenue growth, recognized two years running in [The Globe and Mail's Canada's Top Growing Companies](https://www.theglobeandmail.com/business/adv/article-canadas-top-growing-companies-2024-speer-technologies/) (2024, 2025).
+I joined Speer as a founding engineer and worked my way up: senior engineer, frontend lead, and now running engineering. Along the way I helped scale the company from zero to a multi-million-dollar business with 1,005% three-year revenue growth, recognized three years running in [The Globe and Mail's Canada's Top Growing Companies](https://www.theglobeandmail.com/business/adv/article-canadas-top-growing-companies-2024-speer-technologies/) (2024, 2025, 2026).
 
 ## Things I've shipped
 
@@ -10,9 +10,9 @@ I joined Speer as a founding engineer and worked my way up: senior engineer, fro
 - Led product across web and mobile for an A-list Hollywood celebrity's apparel brand, serving millions of monthly visitors. Held 10M hits on launch day.
 - **[ChillRx](https://opensea.io/collection/chillrx)**: frontend for the world's first decentralized record label, with 2x Grammy-nominated producer Sidney Swift. ~30k hits in the first 15 minutes; sold out in ~12 hours (~743 ETH, ~$1.96M at the time).
 - A pharmacy management platform built from the ground up for a Fortune 15 retailer, replacing the decades-old incumbent that dominates the industry.
-- **[Reelio](https://apps.shopify.com/reelio)**: a profitable, fully passive Shopify app. Custom edge analytics ingesting upwards of 5 million events per day; ~10-15ms responses across three continents.
+- **[Reelio](https://apps.shopify.com/reelio)**: a profitable, largely self-running Shopify app. Custom edge analytics ingesting upwards of 5 million events per day; ~10-15ms responses across four continents.
 - **[BuildingCheck](https://buildingcheck.ca)**: a free civic-tech site helping Toronto renters vet a building before they sign, combining City of Toronto inspection data with moderated resident reviews. 3,600+ buildings on ~$0/month infrastructure.
-- **A content site built and operated solo, in a niche I'm keeping quiet.** 372 pages indexed within four months, page-1 rankings across the core query cluster, and clicks doubling every four weeks. One date-aware discovery tool generates 59% of all clicks. Built a repeatable four-week Research → Build → Distribute → Analyze operating loop rather than relying on intuition. Runs at $0/month.
+- **Built and operated a niche content site from zero.** Five months in: ~400 pages indexed, page-1 rankings across its core searches, and roughly 2× click growth every four weeks. A date-aware tool I built became the site's main acquisition channel, accounting for 60% of clicks. The whole thing runs for $0/month, including publishing, indexing, and the custom tooling around it.
 - **[Blackjack ProTrainer](https://blackjack.karanagrawal.me/)** 🏆: real-time coaching against "The Book". Built in ~2.5 hours from one edge-case-heavy PRD; won Speer's internal vibe-coding contest.
 
 ## A note on this GitHub
