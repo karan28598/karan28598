@@ -6,12 +6,12 @@ I joined Speer as a founding engineer and worked my way up: senior engineer, fro
 
 ## Things I've shipped
 
-- **[Agents](https://agents.speer.io/)**: AI teammates you hire by role, embedded in your Slack, GitHub, and Linear, owning the loop from ticket to PR to deploy. I authored the platform architecture: deterministic orchestration, agentic execution inside bounded scopes. Competitively selected for a $100k co-funded production deployment by a federally funded Canadian AI supercluster.
+- **[Agents](https://agents.speer.io/)**: an autonomous AI squad that works alongside your team, connecting to the tools and context they already use to take on missions across functions, execute the work, and deliver results with humans in the loop. Competitively selected by a federally funded Canadian AI supercluster, securing $100k in funding.
 - Led product across web and mobile for an A-list Hollywood celebrity's apparel brand, serving millions of monthly visitors. Held 10M hits on launch day.
 - **[ChillRx](https://opensea.io/collection/chillrx)**: frontend for the world's first decentralized record label, with 2x Grammy-nominated producer Sidney Swift. ~30k hits in the first 15 minutes; sold out in ~12 hours (~743 ETH, ~$1.96M at the time).
 - A pharmacy management platform built from the ground up for a Fortune 15 retailer, replacing the decades-old incumbent that dominates the industry.
-- **[Reelio](https://apps.shopify.com/reelio)**: a profitable, largely self-running Shopify app. Custom edge analytics ingesting upwards of 5 million events per day; ~10-15ms responses across four continents.
-- **[BuildingCheck](https://buildingcheck.ca)**: a free civic-tech site helping Toronto renters vet a building before they sign, combining City of Toronto inspection data with moderated resident reviews. 3,600+ buildings on ~$0/month infrastructure.
+- **[Reelio](https://apps.shopify.com/reelio)**: a profitable, largely self-running Shopify app for shoppable videos, built and operated end to end. Distributed analytics processing 5M+ events per day, real-time purchase attribution in under 5ms, multi-region with customers across 4 continents.
+- **[BuildingCheck](https://buildingcheck.ca)**: a free civic-tech site helping Toronto renters vet a building before they sign, combining City of Toronto inspection data with moderated resident reviews. 3,600+ buildings on ~$0/month infrastructure. Three weeks after Google indexed the full catalog: ~40,000 search impressions, ~600 visits, and climbing.
 - **Built and operated a niche content site from zero.** Five months in: ~400 pages indexed, page-1 rankings across its core searches, and roughly 2× click growth every four weeks. A date-aware tool I built became the site's main acquisition channel, accounting for 60% of clicks. The whole thing runs for $0/month, including publishing, indexing, and the custom tooling around it.
 - **[Blackjack ProTrainer](https://blackjack.karanagrawal.me/)** 🏆: real-time coaching against "The Book". Built in ~2.5 hours from one edge-case-heavy PRD; won Speer's internal vibe-coding contest.
 
